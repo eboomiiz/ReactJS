@@ -1,0 +1,11 @@
+.bgnColor {
+    background: linear-gradient(45deg,   #001233, #001845, #002855, #023e7d, #0353a4);
+}
+
+.bgLColor {
+    background: linear-gradient(45deg,  #f8f9fa, #f8f9fa, #f8f9fa, #f8f9fa, #e9ecef,  #dee2e6);
+}
+
+.bgfColor {
+    background: linear-gradient(45deg,  #f8f9fa, #f8f9fa, #f8f9fa, #f8f9fa, #e9ecef,  #dee2e6);
+}

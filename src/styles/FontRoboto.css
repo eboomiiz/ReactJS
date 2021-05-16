@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'RobotoB';
+    src: local('RobotoB'), url(../fonts/Roboto-Bold.ttf) format('truetype');
+  }
+
+  .fontrobotoB {
+    font-family: 'RobotoB', cursive;
+    font-size: 1.5rem;
+}
+
+@font-face {
+    font-family: 'RobotoM';
+    src: local('RobotoM'), url(../fonts/Roboto-Medium.ttf) format('truetype');
+  }
+
+  .fontrobotoM {
+    font-family: 'RobotoM', cursive;
+    font-size: 0.8rem;
+}
+
+.fontrobotoML {
+  font-family: 'RobotoM', cursive;
+  font-size: 2rem;
+}

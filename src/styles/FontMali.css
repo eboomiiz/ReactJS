@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Meli';
+    src: local('Meli'), url(../fonts/Mali-Medium.ttf) format('truetype');
+  }
+
+.fontmali {
+    font-family: 'Mali', cursive;
+    font-size: 2.2rem;
+    font-weight: 600;
+}
+
+.fontmaliSm {
+    font-family: 'Mali', cursive;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.fontmColor {
+    background: linear-gradient(45deg,  
+     #012a4a, #01497c , #2a6f97, #2c7da0, #468faf, #61a5c2, #89c2d9, #a9d6e5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

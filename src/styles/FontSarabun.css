@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'SarabunM';
+    src: local('SarabunM'), url(../fonts/Sarabun-Medium.ttf) format('truetype');
+  }
+
+  .fontsarabunM {
+    font-family: 'SarabunM', cursive;
+    font-size: 1rem;
+}
+
+@font-face {
+    font-family: 'SarabunB';
+    src: local('SarabunB'), url(../fonts/Sarabun-Bold.ttf) format('truetype');
+  }
+
+  .fontsarabunB {
+    font-family: 'SarabunB', cursive;
+    font-size: 1rem;
+}
